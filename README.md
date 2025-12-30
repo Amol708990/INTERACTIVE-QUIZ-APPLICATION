@@ -44,3 +44,7 @@ Overall, Quiz App is a fun, educational, and visually appealing tool for learner
 *Answer the questions within the time limit.
 *View instant feedback and track your score.
 *Toggle dark/light theme or restart quiz anytime.
+
+#OUTPUT:
+
+<img width="1910" height="969" alt="Image" src="https://github.com/user-attachments/assets/6cacbaa9-a302-4c47-b2c7-d63deb877003" />
