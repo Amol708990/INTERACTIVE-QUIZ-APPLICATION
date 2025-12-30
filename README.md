@@ -48,3 +48,5 @@ Overall, Quiz App is a fun, educational, and visually appealing tool for learner
 #OUTPUT:
 
 <img width="1910" height="969" alt="Image" src="https://github.com/user-attachments/assets/6cacbaa9-a302-4c47-b2c7-d63deb877003" />
+
+<img width="1911" height="903" alt="Image" src="https://github.com/user-attachments/assets/e3026865-aca3-428f-87dd-469d8835c4ab" />
